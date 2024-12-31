@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
                         <Link to="/" className="flex items-center">
                             <  img
                                 src="./myph.jpg"
-                                className="mr-6 h-13 rounded-full  "
+                                className="mr-6 h-12 rounded-full  "
                                 alt="Logo"
                             />
                         </Link>
