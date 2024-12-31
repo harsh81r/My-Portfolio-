@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <  img
-                                src=" https://media.licdn.com/dms/image/v2/D5603AQF-RFNeGK7BDw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727793359643?e=1733356800&v=beta&t=yODdgzG3sXpYaC2JQftc_v4E72CdWE5XyOBtz99v-xA"
+                                src="./myph.jpg"
                                 className="mr-6 h-13 rounded-full  "
                                 alt="Logo"
                             />
